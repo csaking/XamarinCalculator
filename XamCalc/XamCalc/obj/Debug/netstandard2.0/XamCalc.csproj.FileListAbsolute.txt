@@ -1,0 +1,15 @@
+C:\Users\ConorKing\OneDrive\Xamarin\XamCalc\XamCalc\XamCalc\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ConorKing\OneDrive\Xamarin\XamCalc\XamCalc\XamCalc\obj\Debug\netstandard2.0\Calculator.xaml.g.cs
+C:\Users\ConorKing\OneDrive\Xamarin\XamCalc\XamCalc\XamCalc\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ConorKing\OneDrive\Xamarin\XamCalc\XamCalc\XamCalc\obj\Debug\netstandard2.0\XamCalc.csproj.CoreCompileInputs.cache
+C:\Users\ConorKing\OneDrive\Xamarin\XamCalc\XamCalc\XamCalc\obj\Debug\netstandard2.0\XamCalc.AssemblyInfoInputs.cache
+C:\Users\ConorKing\OneDrive\Xamarin\XamCalc\XamCalc\XamCalc\obj\Debug\netstandard2.0\XamCalc.AssemblyInfo.cs
+C:\Users\ConorKing\OneDrive\Xamarin\XamCalc\XamCalc\XamCalc\bin\Debug\netstandard2.0\XamCalc.deps.json
+C:\Users\ConorKing\OneDrive\Xamarin\XamCalc\XamCalc\XamCalc\bin\Debug\netstandard2.0\XamCalc.dll
+C:\Users\ConorKing\OneDrive\Xamarin\XamCalc\XamCalc\XamCalc\bin\Debug\netstandard2.0\ref\XamCalc.dll
+C:\Users\ConorKing\OneDrive\Xamarin\XamCalc\XamCalc\XamCalc\bin\Debug\netstandard2.0\XamCalc.pdb
+C:\Users\ConorKing\OneDrive\Xamarin\XamCalc\XamCalc\XamCalc\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ConorKing\OneDrive\Xamarin\XamCalc\XamCalc\XamCalc\obj\Debug\netstandard2.0\XamCalc.dll
+C:\Users\ConorKing\OneDrive\Xamarin\XamCalc\XamCalc\XamCalc\obj\Debug\netstandard2.0\ref\XamCalc.dll
+C:\Users\ConorKing\OneDrive\Xamarin\XamCalc\XamCalc\XamCalc\obj\Debug\netstandard2.0\XamCalc.pdb
+C:\Users\ConorKing\OneDrive\Xamarin\XamCalc\XamCalc\XamCalc\obj\Debug\netstandard2.0\XamCalc.csprojAssemblyReference.cache
